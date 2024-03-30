@@ -1,2 +1,2 @@
 # spotify-clone
-author - Ankit Kumar Gupta
+Author - Ankit Kumar Gupta
